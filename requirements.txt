@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pandas
+streamlit
+apscheduler
+jinja2
+python-dotenv
+aiosmtplib
+markdown
+python-multipart
